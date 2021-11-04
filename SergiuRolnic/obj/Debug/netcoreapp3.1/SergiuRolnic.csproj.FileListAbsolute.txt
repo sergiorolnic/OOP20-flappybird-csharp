@@ -1,0 +1,14 @@
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\bin\Debug\netcoreapp3.1\SergiuRolnic.exe
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\bin\Debug\netcoreapp3.1\SergiuRolnic.deps.json
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\bin\Debug\netcoreapp3.1\SergiuRolnic.runtimeconfig.json
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\bin\Debug\netcoreapp3.1\SergiuRolnic.runtimeconfig.dev.json
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\bin\Debug\netcoreapp3.1\SergiuRolnic.dll
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\bin\Debug\netcoreapp3.1\SergiuRolnic.pdb
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\obj\Debug\netcoreapp3.1\SergiuRolnic.csproj.AssemblyReference.cache
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\obj\Debug\netcoreapp3.1\SergiuRolnic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\obj\Debug\netcoreapp3.1\SergiuRolnic.AssemblyInfoInputs.cache
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\obj\Debug\netcoreapp3.1\SergiuRolnic.AssemblyInfo.cs
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\obj\Debug\netcoreapp3.1\SergiuRolnic.csproj.CoreCompileInputs.cache
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\obj\Debug\netcoreapp3.1\SergiuRolnic.dll
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\obj\Debug\netcoreapp3.1\SergiuRolnic.pdb
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\obj\Debug\netcoreapp3.1\SergiuRolnic.genruntimeconfig.cache
