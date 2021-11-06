@@ -6,11 +6,10 @@ using System.Text;
 
 namespace SergiuRolnic
 {
-     [TestClass]
     class ColumnTest
     {
         [TestMethod]
-        public void UpdatePosTest()
+        public void DoubleEquals()
         {
             Point p = new Point
             {
@@ -24,10 +23,8 @@ namespace SergiuRolnic
             Point c = col.Position;
             c.X--;
             col.Position = c;
+         
             Assert.AreEqual(199, col.Position.X);
-            c.X--;
-            col.Position = c;
-            Assert.AreEqual(198, col.Position.X);
         }
 
     }

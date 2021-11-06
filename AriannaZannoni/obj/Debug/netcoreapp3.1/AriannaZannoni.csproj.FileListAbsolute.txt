@@ -1,0 +1,14 @@
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\AriannaZannoni\bin\Debug\netcoreapp3.1\AriannaZannoni.exe
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\AriannaZannoni\bin\Debug\netcoreapp3.1\AriannaZannoni.deps.json
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\AriannaZannoni\bin\Debug\netcoreapp3.1\AriannaZannoni.runtimeconfig.json
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\AriannaZannoni\bin\Debug\netcoreapp3.1\AriannaZannoni.runtimeconfig.dev.json
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\AriannaZannoni\bin\Debug\netcoreapp3.1\AriannaZannoni.dll
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\AriannaZannoni\bin\Debug\netcoreapp3.1\AriannaZannoni.pdb
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\AriannaZannoni\obj\Debug\netcoreapp3.1\AriannaZannoni.csproj.AssemblyReference.cache
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\AriannaZannoni\obj\Debug\netcoreapp3.1\AriannaZannoni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\AriannaZannoni\obj\Debug\netcoreapp3.1\AriannaZannoni.AssemblyInfoInputs.cache
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\AriannaZannoni\obj\Debug\netcoreapp3.1\AriannaZannoni.AssemblyInfo.cs
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\AriannaZannoni\obj\Debug\netcoreapp3.1\AriannaZannoni.csproj.CoreCompileInputs.cache
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\AriannaZannoni\obj\Debug\netcoreapp3.1\AriannaZannoni.dll
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\AriannaZannoni\obj\Debug\netcoreapp3.1\AriannaZannoni.pdb
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\AriannaZannoni\obj\Debug\netcoreapp3.1\AriannaZannoni.genruntimeconfig.cache
