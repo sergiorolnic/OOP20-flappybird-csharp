@@ -12,3 +12,6 @@ C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\obj
 C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\obj\Debug\netcoreapp3.1\SergiuRolnic.dll
 C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\obj\Debug\netcoreapp3.1\SergiuRolnic.pdb
 C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\obj\Debug\netcoreapp3.1\SergiuRolnic.genruntimeconfig.cache
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Sergiu Gabriel\Desktop\OOP2021\OOP20-flappybird-csharp\SergiuRolnic\obj\Debug\netcoreapp3.1\SergiuRolnic.csproj.CopyComplete
