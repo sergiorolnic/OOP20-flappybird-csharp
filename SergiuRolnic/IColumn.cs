@@ -15,9 +15,13 @@ namespace SergiuRolnic
         {
 
             get;
-            set;
+           
 
         }
+       
+
+       
+
         /// <summary>The width of the column.</summary>
         /// <returns>Return the width of the object.</returns>
         int Width
