@@ -19,7 +19,7 @@ namespace SergiuRolnic
                 Console.WriteLine(col.Position.X);
                 Point c = col.Position;
                 c.X--;
-                col.Position = c;
+                col.UpdatePosition(c);
             }
 
            

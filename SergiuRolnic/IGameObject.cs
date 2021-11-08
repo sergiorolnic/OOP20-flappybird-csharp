@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
+
 using System.Drawing;
 using System.Text;
 
@@ -19,12 +19,14 @@ namespace SergiuRolnic
         {
          
              get;
-             set;
+         
          
         }
 
+        /// <summary>Update the position of the object</summary>
+        /// <param name="position">The new position</param>
+        void UpdatePosition(Point position);
 
-
-
+      
     }
 }
