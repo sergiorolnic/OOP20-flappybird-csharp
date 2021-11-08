@@ -8,32 +8,35 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/ariannazannoni/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Sergiu Gabriel\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ariannazannoni/Desktop/OOP20-flappybird-csharp/AriannaZannoni/AriannaZannoni.csproj",
+      "projectUniqueName": "C:\\Users\\Sergiu Gabriel\\desktop\\OOP2021\\OOP20-flappybird-csharp\\AriannaZannoni\\AriannaZannoni.csproj",
       "projectName": "AriannaZannoni",
-      "projectPath": "/Users/ariannazannoni/Desktop/OOP20-flappybird-csharp/AriannaZannoni/AriannaZannoni.csproj",
-      "packagesPath": "/Users/ariannazannoni/.nuget/packages/",
-      "outputPath": "/Users/ariannazannoni/Desktop/OOP20-flappybird-csharp/AriannaZannoni/obj/",
+      "projectPath": "C:\\Users\\Sergiu Gabriel\\desktop\\OOP2021\\OOP20-flappybird-csharp\\AriannaZannoni\\AriannaZannoni.csproj",
+      "packagesPath": "C:\\Users\\Sergiu Gabriel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sergiu Gabriel\\desktop\\OOP2021\\OOP20-flappybird-csharp\\AriannaZannoni\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/ariannazannoni/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Sergiu Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -45,6 +48,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -54,7 +58,13 @@
           "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
